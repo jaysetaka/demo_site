@@ -1,10 +1,10 @@
 {
   "name": "wonder",
   "version": "1.0.0",
-  "description": "Thanks for downloading this theme!",
+  "description": "A simple site",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaysetaka/demo_site/issues"
   },
-  "homepage": "https://github.com/jaysetaka/demo_site#readme"
+  "homepage": "https://github.com/jaysetaka/demo_site#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
 }
