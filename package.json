@@ -2,21 +2,14 @@
   "name": "wonder",
   "version": "1.0.0",
   "description": "A simple site",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jaysetaka/demo_site.git"
-  },
-  "author": "jabu",
+  "author": "jabulani",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jaysetaka/demo_site/issues"
-  },
-  "homepage": "https://github.com/jaysetaka/demo_site#readme",
+  "homepage": "https://jaysetaka.github.io/wonder",
   "dependencies": {
-    "gh-pages": "^2.0.0"
+    "gh-pages": "^1.2.0"
   }
 }
