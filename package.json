@@ -1,0 +1,19 @@
+{
+  "name": "wonder",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysetaka/demo_site.git"
+  },
+  "author": "jabu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaysetaka/demo_site/issues"
+  },
+  "homepage": "https://github.com/jaysetaka/demo_site#readme"
+}
